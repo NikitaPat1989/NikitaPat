@@ -1,4 +1,4 @@
-![HEADER] (https://github.com/NikitaPat1989/NikitaPat/blob/main/assets/Background%201.png)
+![HEADER](https://github.com/NikitaPat1989/NikitaPat1989/blob/main/assets/Background%201.png)
 
 
 About me
@@ -6,6 +6,8 @@ About me
 Languages and Tools
 
 Follow me
+
+
 
 
 
