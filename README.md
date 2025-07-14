@@ -1,4 +1,5 @@
-![Header](https://github.com/NikitaPat1989/NikitaPat/tree/main/assets)
+https://github.com/NikitaPat1989/NikitaPat/tree/main/assets
+
 
 About me
 
