@@ -3,7 +3,8 @@
 
 About me
 
-Languages and Tools
+Languages and Tools 
+I am beginner QE Engineer
 
 Follow me
 
