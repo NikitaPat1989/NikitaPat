@@ -4,7 +4,7 @@
 ## Я QA Engineer. 
 
 ### Languages and Tools 
-![SWAGGER](https://img.shields.io/badge/Swagger-8A2BE2)
+![SWAGGER](https://img.shields.io/badge/Swagger-8A2BE2?style=for-the-badge&logo=SWAGGER&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-red)
 ![MYSQL](https://img.shields.io/badge/MYSQL-blue)
 ![GITHUB](https://img.shields.io/badge/GITHUB-green)
