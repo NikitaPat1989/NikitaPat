@@ -3,8 +3,8 @@
 
 ## Я QA Engineer. 
 
-Languages and Tools 
-
+# Languages and Tools 
+![Swagger](https://img.shields.io/badge/Swagger-8A2BE2)
 
 Follow me
 
