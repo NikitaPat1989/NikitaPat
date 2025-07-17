@@ -5,7 +5,7 @@
 
 ### Languages and Tools 
 ![SWAGGER](https://img.shields.io/badge/Swagger-8A2BE2)
-![POSTMAN](https://img.shields.io/badge/POSTMAN-8A2BE2)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-red)
 ![MYSQL](https://img.shields.io/badge/MYSQL-8A2BE2)
 ![GITHUB](https://img.shields.io/badge/GITHUB-8A2BE2)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-8A2BE2)
