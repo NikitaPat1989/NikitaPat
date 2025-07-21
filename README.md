@@ -1,9 +1,17 @@
 ![HEADER](https://github.com/NikitaPat1989/NikitaPat1989/blob/main/assets/wallpaper-4106667_640.jpg)
 
 
-## Я QA Engineer. 
+## Всем привет.Я начинающий QA Engineer.
 
-### Languages and Tools 
+### Обучение и сертификаты
+[Основы тестирования ПО,Углубленное тестирование ПО,Основы SQL,Тестирование API](https://cloud.mail.ru/home/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%9F%D0%B0%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%D0%B8%D1%87%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.pdf)
+
+### Портфолио:
+ *[Чек-листы](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1858576348#gid=1858576348)
+ *[Тест-кейсы](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1584513962#gid=1584513962)
+ *[Баг-репорты](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1105297860#gid=1105297860)
+
+### Инструменты и технологии 
 ![SWAGGER](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=SWAGGER&logoColor=yellow&logoSize=20)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-090909?style=for-the-badge&logo=POSTMAN&logoColor=yellow)
 ![MYSQL](https://img.shields.io/badge/MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=yellow)
