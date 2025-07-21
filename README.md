@@ -10,6 +10,7 @@
  1. [Чек-листы](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1858576348#gid=1858576348)
  2. [Тест-кейсы](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1584513962#gid=1584513962)
  3. [Баг-репорты](https://docs.google.com/spreadsheets/d/1flC4iCQN_HNPZwOoq4os-QnECuVKEsgczmf9V2JnvRY/edit?gid=1105297860#gid=1105297860)
+ 4. [Mind maps](https://www.mindmeister.com/app/map/3757217253)
 
 ### Инструменты и технологии 
 ![SWAGGER](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=SWAGGER&logoColor=yellow&logoSize=20)
